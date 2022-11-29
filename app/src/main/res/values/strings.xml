@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cookland</string>
+
+    <string name="main_category">Category</string>
+    <string name="main_list_all">Meal List</string>
+    <string name="meal_list_by">Meal List by %1$s</string>
+    <string name="meal_ingredients">ingredients :</string>
+    <string name="meal_instructions">Instructions :</string>
+    <string name="about">About</string>
+    <string name="favorite">Favorite</string>
+    <string name="name">Tasya Amalia Salsabila</string>
+    <string name="email">tasyaamaliasals@gmail.com</string>
+    <string name="empty_data">No Data Found</string>
+    <string name="lost_connection">The network is disconnected, please</string>
+    <string name="refresh_data">Refresh Data</string>
+</resources>
